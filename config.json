@@ -3,7 +3,7 @@
               "Password": "anthony20581788"
 },
 
- "Interface":{ "Base Bet":"0.000001",
+ "Interface":{ "Base Bet":"0.00000001",
                "Max Bet":"off",
                "Chance":"49.95",
                "Random":{"Auto": "on",
